@@ -1,1 +1,2 @@
-# Proiect-Linux
+# Project-Linux
+This Linux project is a shell script that offers the user the option to calculate the average grades of a set of students, save these averages in a separate file, and archive the files created earlier in a tar file. Additionally, the project allows displaying the processes started by a user specified from the keyboard. The script comes with an interactive menu to make its usage as simple and intuitive as possible.
